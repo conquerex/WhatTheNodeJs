@@ -1,0 +1,9 @@
+After canceling entirely last year, Google today announced that I/O 2021 will be virtual and free to attend. This developer conference is the company’s biggest event of the year and will run from May 18-20.
+
+Google I/O 2021 will feature Consumer and Developer Keynotes — focused on “company and product news” — followed by Technical Sessions for “product announcements and how to adopt new features.” These will be scheduled throughout the three-day event and available on demand. The full lineup will be made available in late April.
+
+Users will have to register for Workshops that are instructor-led and feature Q&A, while Ask Me Anything (AMA) sessions will be an “opportunity to ask Google product experts questions.” Meetups — “casual, open, facilitated forums hosted by Google that enable attendees to connect with each other” — will also require registration and reservation. There will also be:
+
+Interactive Sandboxes are available in I/O Adventure, enabling developers to try Google’s new products and features through a hands-on experience.
+Codelabs and Learning Pathways are always-on, self-guided learning experiences that help you adopt Google technology.
+Registration is now open and provides access to live Q&A during Sessions, Workshops, Ask Me Anything (AMA) sessions, personalized content, badges, and chat in I/O Adventure.
